@@ -1,0 +1,64 @@
+Mono path[0] = 'D:/Desktop/Alpacism_Data/Managed'
+Mono path[1] = 'D:/Desktop/Alpacism_Data/Mono'
+Mono config path = 'D:/Desktop/Alpacism_Data/Mono/etc'
+PlayerConnection initialized from D:/Desktop/Alpacism_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55488
+Multi-casting "[IP] 192.168.1.105 [Port] 55488 [Flags] 2 [Guid] 1722279646 [EditorId] 4223194641 [Version] 1048832 [Id] WindowsPlayer(Workstation) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [192.168.1.105:55488]
+Initialize engine version: 5.1.2f1 (afd2369b692a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Desktop\Alpacism_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Desktop\Alpacism_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Desktop\Alpacism_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Desktop\Alpacism_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Desktop\Alpacism_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Desktop\Alpacism_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Desktop\Alpacism_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Desktop\Alpacism_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Desktop\Alpacism_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Desktop\Alpacism_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.055 seconds
+desktop: 1920x1080 60Hz; virtual: 3200x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\Desktop\Alpacism_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Desktop\Alpacism_Data\Managed\System.dll (this message is harmless)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.797281 ms
+System memory in use before: 41.8 MB.
+System memory in use after: 41.8 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 210.
+Total: 0.239759 ms (FindLiveObjects: 0.017242 ms CreateObjectMapping: 0.012726 ms MarkObjects: 0.201988 ms  DeleteObjects: 0.005747 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.968843 ms
+System memory in use before: 42.1 MB.
+System memory in use after: 42.1 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 231.
+Total: 0.258644 ms (FindLiveObjects: 0.016421 ms CreateObjectMapping: 0.009853 ms MarkObjects: 0.227032 ms  DeleteObjects: 0.004105 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.555058 ms
+System memory in use before: 42.1 MB.
+System memory in use after: 42.0 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 216.
+Total: 0.283277 ms (FindLiveObjects: 0.026274 ms CreateObjectMapping: 0.010263 ms MarkObjects: 0.239759 ms  DeleteObjects: 0.006158 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.487729 ms
+System memory in use before: 42.2 MB.
+System memory in use after: 42.2 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 400.
+Total: 0.294361 ms (FindLiveObjects: 0.028327 ms CreateObjectMapping: 0.016832 ms MarkObjects: 0.234011 ms  DeleteObjects: 0.013958 ms)
+
